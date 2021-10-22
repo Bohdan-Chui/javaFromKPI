@@ -1,4 +1,3 @@
-
 import static java.lang.Math.sqrt;
 import static java.lang.Double.parseDouble;
 

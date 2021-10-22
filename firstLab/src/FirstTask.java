@@ -1,3 +1,4 @@
+
 public class FirstTask {
     private static double count = 3;
 
