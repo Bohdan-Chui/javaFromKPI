@@ -1,5 +1,9 @@
 import java.util.Random;
 
+/**
+ * Определить   абсолютное значение наименьшей разности
+ * между двумя любыми значениями элементов исходного одномерного массива a.
+ */
 
 public class Task7 {
     public static int[]  getRandomArray(int number) {
@@ -30,7 +34,4 @@ public class Task7 {
         System.out.println("\n"+leastDefference(array));
 
     }
-
-
-
 }

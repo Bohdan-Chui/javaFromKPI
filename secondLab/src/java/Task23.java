@@ -2,6 +2,10 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
+/**
+ * Определить индексы и значения равных элементов (если они есть) исходного   одномерного массива a
+ */
+
 public class Task23 {
 
     public static List findElements(int []array){

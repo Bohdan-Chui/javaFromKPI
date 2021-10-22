@@ -2,6 +2,11 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
+/**
+ * Сформировать массив b из массива a  следующим образом: массив  b состоит
+ * из тех элементов массива a, которые повторяются в массиве (по одному значению для одинаковых элементов),
+ * например, для массива a: 3 7 4 3 8 7 5, массив b будет иметь вид: 3 7.
+ */
 public class Task29 {
 
     public static List findElements(int []array){
