@@ -12,6 +12,6 @@ class Task19Test {
     void findElements() {
        ArrayList<Integer> expected =  new ArrayList<Integer>();
        expected.add(new Integer(3));
-        assertEquals(Task19.findElements(array), expected);
+       assertEquals(Task19.findElements(array), expected);
     }
 }

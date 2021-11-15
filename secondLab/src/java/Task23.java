@@ -36,7 +36,9 @@ public class Task23 {
     }
 
     public static void main(String[] args) {
+        int len = args.length;
         int []array = {1,2,3,4,2,6,8,9,1,2};
+
         List<Integer> numbers = findElements(array);
         Iterator<Integer> iterator = numbers.iterator();
         System.out.println("Numbers: ");
@@ -50,6 +52,6 @@ public class Task23 {
         while (iterator.hasNext()){
             System.out.print(iterator.next().intValue() + " ");
         }
-}
+    }
 
 }

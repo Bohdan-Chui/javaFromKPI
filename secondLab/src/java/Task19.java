@@ -1,7 +1,6 @@
 
 import java.util.ArrayList;
-import java.util.List;
-import java.util.stream.IntStream;
+
 
 /**
  * Выведите на дисплей значения и индексы только тех элементов массива a, значения которых
